@@ -40,6 +40,14 @@ The [Bootstrap Foundation](https://getbootstrap.com/) for the framework.
 
 This project was built in GitPod and GitHub. It was tested using Google Chrome Dev Tools, the W3C HTML validator and the W3C CSS validator
 
-You can clone and deploy this by:
+You can clone and deploy this in your GitHub Desktop application by following these steps:
 
-tbf
+Navigate to this [repository](https://github.com/Justin-Sawyer/ucd-resume)
+
+Click the green "Code" button
+
+Click "Open with GitHub Desktop"
+
+Follow the prompts in the GitHub Desktop application.
+
+## I hope you enjoy this project!
