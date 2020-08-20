@@ -4,6 +4,8 @@
 
 This mini project is to create an online resumé for Ms. Odenkirk, a full stack web developer.
 
+You can access the published project [here](https://justin-sawyer.github.io/ucd-resume/)
+
 ## Languages & Technologies used:
 
 HTML
